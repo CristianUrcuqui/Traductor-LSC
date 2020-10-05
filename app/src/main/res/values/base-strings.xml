@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">Traductor LSC</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+             Esta muestra demuestra el uso básico de la API de TfLite. Consulte el código fuente para ver cómo
+             puede usar TfLite para una inferencia eficiente en el dispositivo con modelos entrenados de TensorFlow.
+
+        ]]>
+    </string>
+    <string name="threads">Threads:</string>
+</resources>
